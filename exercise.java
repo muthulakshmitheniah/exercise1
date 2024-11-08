@@ -1,4 +1,4 @@
-public class exercise1 {
+public class exercise {
     public static void main(String[] args) {
         String str = "madam";
         String reverseStr = "";
