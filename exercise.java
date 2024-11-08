@@ -1,4 +1,4 @@
-public class Palindrome {
+public class exercise1 {
     public static void main(String[] args) {
         String str = "madam";
         String reverseStr = "";
